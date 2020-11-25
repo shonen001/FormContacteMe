@@ -1,0 +1,46 @@
+
+.Contact-form
+{
+    margin: 20px auto;
+    max-width: 450px;
+    
+}
+
+
+.Contact-form input
+{
+    margin-bottom:10px ;  
+    padding-left: 31px;
+}
+
+.Contact-form textarea
+{
+    width: 450px;
+}
+.Contact-form i
+{
+    float: left;
+    width: 0;
+    position: relative;
+    top: -36px;
+    left: 8px;
+    color: rgb(179, 179, 170);
+}
+.Contact-form .send-iqon
+{
+    display: block;
+    float: left;
+    position: relative;
+    top: 11px;
+    left: 10px;
+    color: white;
+}
+
+.Contact-form .coustom-alert
+{
+   display:none;
+   padding: 3px;
+   margin-top: 1px;
+   margin-bottom:  6px;
+   
+}
